@@ -20,7 +20,11 @@ Hi there<br>I'm Matteo, a computer science student at the University of Salerno.
 <br>
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MatteoAv&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
+<div align="center">  
+  <img width="100%" height="195px" src="https://github-contributor-stats.vercel.app/api?username=MatteoAv&limit=5&theme=dark&combine_all_yearly_contributions=true" /> 
+</div>
+
 
 
 
