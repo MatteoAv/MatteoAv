@@ -15,15 +15,15 @@ Hi there<br>I'm Matteo, a computer science student at the University of Salerno.
 ## 📊 GitHub Stats:
 <br>
 <div align="center">  
-  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MatteoAv&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /> 
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoAv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="margin-right: 10px;"/>
+  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MatteoAv&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" /> 
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoAv&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="margin-right: 10px;"/>
 </div>
 <br>
 
 ## 🔝 Top Contributed Repo
 <br>
 <div align="center">  
-  <img width="100%" height="195px" src="https://github-contributor-stats.vercel.app/api?username=MatteoAv&limit=5&theme=dark&combine_all_yearly_contributions=true" /> 
+  <img width="100%" height="195px" src="https://github-contributor-stats.vercel.app/api?username=MatteoAv&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" /> 
 </div>
 
 
