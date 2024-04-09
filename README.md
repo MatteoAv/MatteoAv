@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-    <img src="https://github.com/MatteoAv/MatteoAv/assets/107200607/67578cbc-80bb-4d9a-8c36-1a5de6ee25c7" width="800">
-</div>
+![Header](./banner.png)
 
 
 ## 😃 About Me:
