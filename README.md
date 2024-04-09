@@ -28,7 +28,7 @@ Hi there<br>I'm Matteo, a computer science student at the University of Salerno.
 <br>
 <div align="center">  
   <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MatteoAv&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" /> 
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoAv&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="margin-right: 10px;"/>
+  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoAv&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="margin-right: 10px;"/>
 </div>
 <br>
 
