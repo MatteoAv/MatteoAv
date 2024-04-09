@@ -1,7 +1,7 @@
 ![Header](./banner.png)
 
 <div align="center">  
-  <img width="100%" height="auto" src="./banner.png" /> 
+  <img width="100%" height="100%" src="./banner.png" /> 
 </div>
 
 ## 😃 About Me:
