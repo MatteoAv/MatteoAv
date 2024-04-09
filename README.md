@@ -2,7 +2,7 @@
 Hi there<br>I'm Matteo, a computer science student at the University of Salerno. Here, you can find some of the projects I've worked on or I'm currently working on. Primarily, I've been involved in developing websites, handling backend tasks with Java/Python and crafting frontend elements with HTML, JavaScript, CSS and TailwindCSS.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/matteo.avella.77) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_matteo_av) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matteo-avella-19a221303) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/MrCrazy_x) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/avella_matteo) 
 
 # 💻 Tech Skill:
