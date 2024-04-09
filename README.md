@@ -1,5 +1,5 @@
-<img width="200" ![welcome to My GitHub Page](https://github.com/MatteoAv/MatteoAv/assets/107200607/67578cbc-80bb-4d9a-8c36-1a5de6ee25c7)
->
+![welcome to My GitHub Page](https://github.com/MatteoAv/MatteoAv/assets/107200607/67578cbc-80bb-4d9a-8c36-1a5de6ee25c7)
+
 ## 😃 About Me:
 Hi there<br>I'm Matteo, a computer science student at the University of Salerno. Here, you can find some of the projects I've worked on or I'm currently working on. Primarily, I've been involved in developing websites, handling backend tasks with Java/Python and crafting frontend elements with HTML, JavaScript, CSS and TailwindCSS.
 
