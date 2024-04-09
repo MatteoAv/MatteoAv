@@ -1,5 +1,8 @@
 ![Header](./banner.png)
 
+<div align="center">  
+  <img width="100%" height="195px" src="./banner.png" /> 
+</div>
 
 ## 😃 About Me:
 Hi there<br>I'm Matteo, a computer science student at the University of Salerno. Here, you can find some of the projects I've worked on or I'm currently working on. Primarily, I've been involved in developing websites, handling backend tasks with Java/Python and crafting frontend elements with HTML, JavaScript, CSS and TailwindCSS.
