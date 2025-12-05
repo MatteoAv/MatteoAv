@@ -27,7 +27,7 @@ Here you can find some of the projects I've worked on or I'm currently working o
 ## 📊 GitHub Stats:
 <br>
 <div align="center">  
-  <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatteoAv&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Gianluca Palumbo github stats" /> 
+  <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatteoAv&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Matteo Avella github stats" /> 
   
   <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoAv&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
 </div>
