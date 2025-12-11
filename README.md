@@ -24,12 +24,13 @@ Here you can find some of the projects I've worked on or I'm currently working o
   <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
 <div/>  
 
-## 📊 GitHub Stats:
-<br>
-<div align="center">  
-  <img width="51%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatteoAv&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Matteo Avella github stats" /> 
-  
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoAv&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
+## 📊 GitHub Stats (Alternative)
+<div align="center">
+
+![MatteoAv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatteoAv&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoAv&layout=compact&theme=radical&hide_border=true)
+
 </div>
 <br>
 
