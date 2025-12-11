@@ -24,17 +24,6 @@ Here you can find some of the projects I've worked on or I'm currently working o
   <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white">
 <div/>  
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Followers](https://img.shields.io/github/followers/MatteoAv?style=social)
-![GitHub Repos](https://img.shields.io/github/repos/MatteoAv?style=flat-square&label=Repositories)
-![GitHub Stars](https://img.shields.io/github/stars/MatteoAv?style=flat-square&label=Stars)
-![GitHub Forks](https://img.shields.io/github/forks/MatteoAv?style=flat-square&label=Forks)
-
-</div>
-<br>
 
 ## 🔝 Top Contributed Repo
 <br>
