@@ -3,7 +3,7 @@
 </div>
 
 ## 💾 Projects:
-Here you can find some of the projects I've worked on or I'm currently working on. Primarily, I've been involved in developing websites, handling backend tasks with Java/Python and crafting frontend elements with HTML, JavaScript, CSS and TailwindCSS.
+Here you can find some of the projects I've worked on or I'm currently working on. Primarily, I've been involved in developing software and solutions, handling backend tasks with C/Java/Python and crafting frontend elements with HTML, JavaScript, CSS and TailwindCSS.
 
 
 ## 🌐 Socials:
