@@ -36,13 +36,6 @@ Here you can find some of the projects I've worked on or I'm currently working o
 <div/>  
 
 
-## 🔝 Top Contributed Repo
-<br>
-<div align="center">  
-  <img width="100%" height="195px" src="https://github-contributor-stats.vercel.app/api?username=MatteoAv&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" /> 
-</div>
-
-
 
 
 
